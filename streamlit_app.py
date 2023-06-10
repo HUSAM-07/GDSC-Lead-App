@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.set_page_config(layout="wide")
+st.markdown("[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=space+grotesk&pause=800&color=1C4C8F&width=435&lines=Hello+There!;I+am+HUSAM%2C+The+Marketing+Lead+%26+Technical+Executive+at+Google+DSC+BPDC)](https://git.io/typing-svg)")
 def display_marketing_contributions():
     st.title("Marketing Contributions")
     
