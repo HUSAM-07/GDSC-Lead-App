@@ -80,4 +80,3 @@ elif selected_activity == "Documentation":
     display_documentation()
 elif selected_activity == "Pending Commitments":
     display_pending_commitments()
-
